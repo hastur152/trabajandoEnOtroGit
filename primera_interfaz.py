@@ -4,7 +4,7 @@ raiz = Tk()
 
 raiz.title("mi primera ventana")
 
-raiz.resizable(True, True)
+raiz.resizable(True, 0)
 
 # raiz.iconbitmap("@GIU/imagenes/xpm/leon.xbm")PREGUNTAR A ALGUIEN COMO PONER EN LINUX UN ICONO A LA VENTANA
 
